@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vraptor-test:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vraptor-test-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vraptor-test:war exploded" />
+    </root>
+  </artifact>
+</component>
